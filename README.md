@@ -1,4 +1,4 @@
-# Sorting Visualizer
+# SortMate
 
 A web-based sorting visualizer project built using HTML, CSS, and JavaScript. This project allows you to visualize various sorting algorithms in action, helping you understand how they work and compare their performance.
 
